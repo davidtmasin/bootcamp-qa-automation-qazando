@@ -14,8 +14,11 @@ Este repositório destina-se ao armazenamento das práticas de testes realizadas
 No dia 01, vamos mergulhar na Automação WEB com Cypress, do zero ao avançado!
 
 ✅ Como iniciar na automação de testes web com Cypress;
+
 ✅ Passo a passo para escrever seus primeiros testes;
+
 ✅ Os erros mais comuns que podem travar seu progresso;
+
 ✅ Dicas práticas para acelerar sua carreira como QA.
  
 #### 📌 Dia 02: Automação API com Cypress 🚀
@@ -23,8 +26,11 @@ No dia 01, vamos mergulhar na Automação WEB com Cypress, do zero ao avançado!
 No dia 02, vamos mergulhar na **Automação de API com Cypress**, aprendendo como testar APIs de forma eficiente e automatizada!
 
 ✅ Como iniciar na automação de testes de API com Cypress;
+
 ✅ Métodos HTTP essenciais: GET, POST, PUT, DELETE;
+
 ✅ Como validar respostas e estruturar bons testes;
+
 ✅ Dicas para integrar testes de API na sua estratégia de qualidade.
 
 #### 📌 Dia 03: Automação Mobile com Maestro 📱
@@ -32,8 +38,11 @@ No dia 02, vamos mergulhar na **Automação de API com Cypress**, aprendendo com
 No dia 03, vamos explorar a **Automação Mobile com Maestro**, uma das ferramentas mais promissoras para testar aplicativos de forma simples e eficiente!
 
 ✅ Como iniciar na automação de testes mobile com Maestro;
+
 ✅ Criando e rodando scripts de teste para apps Android e iOS;
+
 ✅ Melhores práticas para garantir testes confiáveis;
+
 ✅ Como integrar a automação mobile no seu fluxo de qualidade.
 
 #### 📌 Dia 04: Testes de Perfomance com K6 🏃
