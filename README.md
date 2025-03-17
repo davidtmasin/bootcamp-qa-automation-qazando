@@ -47,7 +47,13 @@ No dia 03, vamos explorar a **Automação Mobile com Maestro**, uma das ferramen
 
 #### 📌 Dia 04: Testes de Perfomance com K6 🏃
 
-⚠️ Aguardando conteúdo...
+✅ Como iniciar nos testes de performance com K6
+
+✅ Criando cenários de carga e stress para aplicações
+
+✅ Como interpretar métricas e resultados de performance
+
+✅ Estratégias para otimizar a escalabilidade dos sistemas
 
 ---
 ## 2. Tecnologias
@@ -60,6 +66,7 @@ As ferramentas utilizadas por mim ao longo deste bootcamp foram:
 - git (version 2.48.1.windows.1)
 - Cypress (14.1.0)
 - Postman
+- Android Studio
 - Maestro
 - K6
 
